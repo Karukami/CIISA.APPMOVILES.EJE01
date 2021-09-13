@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EJE01.Lobsang.Barriga</string>
+    <string name="txt_title">FORMULARIO DE REGISTRO</string>
+    <string name="txt_label">Por favor, ingrese sus datos a continuación:</string>
+    <string name="txt_rut">RUT</string>
+    <string name="txt_first_name">Nombre</string>
+    <string name="txt_last_name">Apellido</string>
+    <string name="txt_gender">Género</string>
+    <string name="txt_age">Edad</string>
+    <string name="txt_date_of_birth">Fecha de nacimiento</string>
+    <string name="txt_btn_confirm">CONFIRMAR</string>
+</resources>
