@@ -46,7 +46,6 @@
                 android:layout_marginRight="20sp"
                 android:layout_marginBottom="8sp"
                 android:hint="@string/txt_rut"
-                android:hintTextColor="#616161"
                 tools:ignore="TextContrastCheck,TextContrastCheck" />
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -64,7 +63,6 @@
                 android:layout_marginRight="20sp"
                 android:layout_marginBottom="8sp"
                 android:hint="@string/txt_first_name"
-                android:hintTextColor="#616161"
                 tools:ignore="TextContrastCheck" />
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -82,7 +80,6 @@
                 android:layout_marginRight="20sp"
                 android:layout_marginBottom="8sp"
                 android:hint="@string/txt_last_name"
-                android:hintTextColor="#616161"
                 tools:ignore="TextContrastCheck" />
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -98,10 +95,9 @@
                 android:layout_marginLeft="20sp"
                 android:layout_marginEnd="20sp"
                 android:layout_marginRight="20sp"
+                android:layout_marginBottom="8sp"
                 android:hint="@string/txt_gender"
-                android:hintTextColor="#616161"
-                tools:ignore="TextContrastCheck"
-                tools:layout_marginBottom="8sp" />
+                tools:ignore="TextContrastCheck" />
         </com.google.android.material.textfield.TextInputLayout>
 
         <com.google.android.material.textfield.TextInputLayout
